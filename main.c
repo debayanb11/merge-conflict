@@ -14,4 +14,10 @@ Feature1 Security()
 {
  //Sample Code
 }
+
+Feature2 Security()
+{
+ //Sample Code
+}
+
 }
